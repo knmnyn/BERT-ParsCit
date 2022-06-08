@@ -1,6 +1,6 @@
 # BERT ParsCit
 
-##Installation
+## Installation
 
 ```zsh
 # clone project
